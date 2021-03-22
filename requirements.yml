@@ -1,3 +1,3 @@
 ---
-- src: geerlingguy.firewall
+# - src: geerlingguy.firewall
 - src: geerlingguy.glusterfs

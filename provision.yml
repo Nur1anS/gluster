@@ -7,7 +7,7 @@
     - vars.yml
 
   roles:
-    - geerlingguy.firewall
+    # - geerlingguy.firewall
     - geerlingguy.glusterfs
 
   tasks:

@@ -19,7 +19,8 @@ firewall_allowed_udp_ports:
 # Gluster config
 glusterfs_default_release: ""
 glusterfs_ppa_use: yes
-glusterfs_ppa_version: "3.8"
+glusterfs_ppa_version: "8"
+glusterfs_package_version: "8.4-ubuntu1~bionic1"
 
 gluster_mount_dir: /opt/test-gluster
 gluster_brick_dir: /data/brick
