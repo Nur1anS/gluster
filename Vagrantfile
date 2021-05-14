@@ -1,7 +1,5 @@
 Vagrant.configure(2) do |config|
-#config.ssh.username = 'root'
-#config.ssh.password = 'root'
-#config.ssh.insert_key = 'true'
+
 config.vm.box = "geerlingguy/centos7"
 #config.vm.provision :docker 
  config.vm.define "server1" do |server1|
